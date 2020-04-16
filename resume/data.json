@@ -13,6 +13,20 @@
          "img": "https://aktsrcs.github.io/resume/images/jokepy.png",
          "link": "",
          "github": "https://github.com/aksty/Jokepy"
+      },
+      {
+         "name": "Covid19-In API",
+         "desc": "A simple api to track covid19 cases in India. Updated every 30 mins. Built using Python (Flask , BeautifulSoup4). Returns a JSON response.",
+         "img": "https://aktsrcs.github.io/resume/images/covid19api.png",
+         "link": "https://api-covid19-in.herokuapp.com/",
+         "github": "https://github.com/aksty/covid19-api-in"
+      },
+      {
+         "name": "Covid19- WebApp",
+         "desc": "Visualisation of covid19 cases in India using Bootstrap4 , ChartJS",
+         "img": "https://aktsrcs.github.io/resume/images/c19in.png",
+         "link": "https://covid19-in.herokuapp.com/",
+         "github": ""
       }
    ]
 }
