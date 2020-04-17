@@ -1,19 +1,6 @@
 {
    "projects": [
-      {
-         "name": "mGradients",
-         "desc": "A web application to generate random material gradients. Built using Python,Materialize CSS.",
-         "img": "https://aktsrcs.github.io/resume/images/mgradients.png",
-         "link": "https://m-gradients.herokuapp.com",
-         "github": ""
-      },
-      {
-         "name": "jokepy",
-         "desc": "Python wrapper for sv443 joke api",
-         "img": "https://aktsrcs.github.io/resume/images/jokepy.png",
-         "link": "",
-         "github": "https://github.com/aksty/Jokepy"
-      },
+     
       {
          "name": "Covid19-In API",
          "desc": "A simple api to track covid19 cases in India. Updated every 30 mins. Built using Python (Flask , BeautifulSoup4). Returns a JSON response.",
@@ -34,6 +21,21 @@
          "img": "https://aktsrcs.github.io/resume/images/cricscores.png",
          "link": "",
          "github": "https://github.com/aksty/Cricscores"
+      },
+      {
+         "name": "mGradients",
+         "desc": "A web application to generate random material gradients. Built using Python,Materialize CSS.",
+         "img": "https://aktsrcs.github.io/resume/images/mgradients.png",
+         "link": "https://m-gradients.herokuapp.com",
+         "github": ""
+      },
+      {
+         "name": "jokepy",
+         "desc": "Python wrapper for sv443 joke api",
+         "img": "https://aktsrcs.github.io/resume/images/jokepy.png",
+         "link": "",
+         "github": "https://github.com/aksty/Jokepy"
       }
+     
    ]
 }
