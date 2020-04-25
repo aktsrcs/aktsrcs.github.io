@@ -12,7 +12,7 @@
          "name": "Covid19- WebApp",
          "desc": "Visualisation of covid19 cases in India using Bootstrap4 , ChartJS",
          "img": "https://aktsrcs.github.io/resume/images/c19in.png",
-         "link": "https://covid19-in.herokuapp.com/",
+         "link": "https://in-covid19.netlify.app/",
          "github": ""
       },
       {
