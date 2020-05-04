@@ -9,11 +9,11 @@
          "github": "https://github.com/aksty/covid19-api-in"
       },
       {
-         "name": "Covid19- WebApp",
-         "desc": "Visualisation of covid19 cases in India using Bootstrap4 , ChartJS",
+         "name": "Covid19- Dashboard",
+         "desc": "Visualisation of covid19 cases in India using Materialize CSS , ChartJS",
          "img": "https://aktsrcs.github.io/resume/images/c19in.png",
          "link": "https://in-covid19.netlify.app/",
-         "github": ""
+         "github": "https://github.com/aksty/covid19-in-dashboard"
       },
       {
          "name": "Cricscores",
