@@ -4,35 +4,35 @@
       {
          "name": "Covid19-In API",
          "desc": "A simple api to track covid19 cases in India. Updated every 30 mins. Built using Python (Flask , BeautifulSoup4). Returns a JSON response.",
-         "img": "https://aktsrcs.github.io/resume/images/covid19api.png",
+         "img": "https://aktsrcs.github.io/resume/images/covid19api.webp",
          "link": "https://api-covid19-in.herokuapp.com/",
          "github": "https://github.com/aksty/covid19-api-in"
       },
       {
          "name": "Covid19- Dashboard",
          "desc": "Visualisation of covid19 cases in India using Materialize CSS , ChartJS",
-         "img": "https://aktsrcs.github.io/resume/images/c19in.png",
+         "img": "https://aktsrcs.github.io/resume/images/c19in.webp",
          "link": "https://in-covid19.netlify.app/",
          "github": "https://github.com/aksty/covid19-in-dashboard"
       },
       {
          "name": "Cricscores",
          "desc": "A web app to display live cricket scores. Built using python (Flask) .",
-         "img": "https://aktsrcs.github.io/resume/images/cricscores.png",
+         "img": "https://aktsrcs.github.io/resume/images/cricscores.webp",
          "link": "",
          "github": "https://github.com/aksty/Cricscores"
       },
       {
          "name": "mGradients",
          "desc": "A web application to generate random material gradients. Built using Python,Materialize CSS.",
-         "img": "https://aktsrcs.github.io/resume/images/mgradients.png",
+         "img": "https://aktsrcs.github.io/resume/images/mgradients.webp",
          "link": "https://m-gradients.netlify.app",
          "github": "https://github.com/aksty/m-Gradients"
       },
       {
          "name": "jokepy",
          "desc": "Python wrapper for sv443 joke api",
-         "img": "https://aktsrcs.github.io/resume/images/jokepy.png",
+         "img": "https://aktsrcs.github.io/resume/images/jokepy.webp",
          "link": "",
          "github": "https://github.com/aksty/Jokepy"
       }
