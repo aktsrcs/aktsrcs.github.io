@@ -28,13 +28,6 @@
          "img": "https://aktsrcs.github.io/resume/images/mgradients.webp",
          "link": "https://m-gradients.netlify.app",
          "github": "https://github.com/aksty/m-Gradients"
-      },
-      {
-         "name": "jokepy",
-         "desc": "Python wrapper for sv443 joke api",
-         "img": "https://aktsrcs.github.io/resume/images/jokepy.webp",
-         "link": "",
-         "github": "https://github.com/aksty/Jokepy"
       }
      
    ]
